@@ -62,7 +62,7 @@
       "size": "65px",
       "backgroundColor": "#e5ddd5",
       "position": "left",
-      "popupMessage": "Hi!👋\n在此处输入消息。我们的团休会尽快回复您 🔥\n谢谢!\n\nMISS NANA WORLD ONLINE Team",
+      "popupMessage": "MISS NANA WORLD ONLINE Team\n\nHi!👋\n在此处输入消息。我们的团休会尽快回复您 🔥\n谢谢!",
       "showPopup": true,
       "showOnIE": true,
       "autoOpenTimeout": "30",
@@ -73,7 +73,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-mnwo-03-500x500-128x128.png",
-    "mbrsiteDomain": "7e8huadnm7",
+    "mbrsiteDomain": "pbdjgqjgwb",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
