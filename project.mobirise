@@ -72,8 +72,8 @@
       "zIndex": 10,
       "enabled": true
     },
-    "favicon": false,
-    "mbrsiteDomain": "kx1ddiploy",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-mnwo-03-500x500-128x128.png",
+    "mbrsiteDomain": "7e8huadnm7",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
